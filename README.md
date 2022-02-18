@@ -1,1 +1,1 @@
-# LX
+# LX_katas
